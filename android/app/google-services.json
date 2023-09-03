@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "162505973642",
+    "project_id": "ouicash-a82e2",
+    "storage_bucket": "ouicash-a82e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162505973642:android:95f53ffe5baf91378c7273",
+        "android_client_info": {
+          "package_name": "com.ouicash.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162505973642-v6ra5t961b6ra6tf2u74a0knn9j4jfm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilGI60zH1Mr_zkfZCZvnAcDrvmI9SU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162505973642-v6ra5t961b6ra6tf2u74a0knn9j4jfm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162505973642:android:dae023ddbbc121128c7273",
+        "android_client_info": {
+          "package_name": "con.ouicash.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162505973642-v6ra5t961b6ra6tf2u74a0knn9j4jfm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilGI60zH1Mr_zkfZCZvnAcDrvmI9SU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162505973642-v6ra5t961b6ra6tf2u74a0knn9j4jfm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
